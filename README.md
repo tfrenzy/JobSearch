@@ -1,1 +1,2 @@
 # JobSearch
+A project done for a final year student to demonstrate a job search site for potential job seekers. Users are required to register and log in to see what new jobs have been posted on the site. Project had two groups of users who could log in, basic users who could log in to check which jobs were available and admin users who could log in to post new jobs or manage the available jobs. The project was implemented using PHP and mySQL. 
